@@ -6,7 +6,7 @@ This repository contains a flashcard-based application designed to help users pr
 - Flashcards that display words in the chosen language (in this case: Hindi).
 - Automatic card flip after 3 seconds to reveal the English translation.
 - Simple and intuitive GUI for smooth user interaction.
-- Procedural programming approach, making the project beginner-friendly.
+- Procedural programming approach.
 
 ## Requirements
 To run this project, ensure you have the following installed:
