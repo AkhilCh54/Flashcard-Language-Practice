@@ -16,7 +16,7 @@ To run this project, ensure you have the following installed:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/flashcard-language-practice.git
+   git clone https://github.com/AkhilCh54/Flashcard-Language-Practice.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -24,7 +24,7 @@ To run this project, ensure you have the following installed:
    ```
 3. Run the application:
    ```bash
-   python flashcard.py
+   python main.py
    ```
 
 ## How It Works
@@ -34,9 +34,9 @@ To run this project, ensure you have the following installed:
 
 Here’s a screenshot of the application in action:
 
-![Flashcard Application Screenshot](images/Screenshot 2023-08-02 122407.png)
+![Flashcard Application Screenshot](images/Screenshot_2023-08-02_122407.png)
 
-![Flashcard Application Screenshot](images/Screenshot 2023-08-02 122419.png)
+![Flashcard Application Screenshot](images/Screenshot_2023-08-02_122419.png)
 
 
 ## Future Enhancements
